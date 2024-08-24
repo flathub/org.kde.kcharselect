@@ -21,18 +21,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.05.2/src/kcharselect-24.05.2.tar.xz",
-                    "sha256": "110e68ae7ee1c5b324812129be4197b87348d10b9275cd621e11cfceb01cfc7b",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kcharselect-24.08.0.tar.xz",
+                    "sha256": "6dd6ee8f11b076485a9417320c0d34951896b58d107ca2151b62db4c15453c5e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1486,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kcharselect-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "developer.patch"
                 }
             ]
         }
