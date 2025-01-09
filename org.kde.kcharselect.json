@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/kcharselect-24.12.0.tar.xz",
-                    "sha256": "d0a746000f0ff810b89f6e9ba2b65cdce4f2cd92ccd3e108940f2a9af184de3f",
+                    "url": "https://download.kde.org/stable/release-service/24.12.1/src/kcharselect-24.12.1.tar.xz",
+                    "sha256": "9458acbd0ddc5fe1e741969c2e134c6a42c5154ce1da9ff3056567910ab9e676",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1486,
