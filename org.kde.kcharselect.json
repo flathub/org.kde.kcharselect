@@ -12,7 +12,7 @@
         "--socket=wayland"
     ],
     "cleanup": [
-        "/share/app-info"
+        "/share/doc"
     ],
     "modules": [
         {
